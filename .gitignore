@@ -1,0 +1,36 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Banco de dados e arquivos gerados
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Dados da aplicação
+funcionarios.json

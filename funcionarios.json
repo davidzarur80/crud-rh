@@ -1,0 +1,272 @@
+[
+    {
+        "chapa": 666534205,
+        "nome": "IAN DA CRUZ",
+        "filial": "LOPES/PB",
+        "departamento": "SUPERINTENDÊNCIA SOCIAL",
+        "cargo": "MÉDICO UROLOGISTA",
+        "salario": 1999.66,
+        "data_admissao": "2019-12-06"
+    },
+    {
+        "chapa": 628834489,
+        "nome": "RAVI BORGES",
+        "filial": "CIRINO DAS FLORES/PR",
+        "departamento": "SUPERINTENDÊNCIA DE ENGENHARIA DA COMUNICAÇÃO",
+        "cargo": "PSICÓLOGO SOCIAL",
+        "salario": 8241.56,
+        "data_admissao": "2010-11-30"
+    },
+    {
+        "chapa": 400756291,
+        "nome": "ISAQUE PIMENTA",
+        "filial": "SÁ DO CAMPO/AC",
+        "departamento": "SUPERINTENDÊNCIA TECNOLOGIA DA INFORMAÇÃO",
+        "cargo": "CARPINTEIRO (TELHADOS)",
+        "salario": 19347.3,
+        "data_admissao": "2018-10-27"
+    },
+    {
+        "chapa": 737717425,
+        "nome": "JOÃO LUCAS DA CUNHA",
+        "filial": "DA MATA/CE",
+        "departamento": "SUPERINTENDÊNCIA MARKETING E COMUNICAÇÃO",
+        "cargo": "DESINCRUSTADOR (POÇOS DE PETRÓLEO)",
+        "salario": 9272.6,
+        "data_admissao": "2017-01-16"
+    },
+    {
+        "chapa": 913949350,
+        "nome": "FERNANDO PIRES",
+        "filial": "VARGAS/RR",
+        "departamento": "SUPERINTENDÊNCIA MARKETING E COMUNICAÇÃO",
+        "cargo": "CHARUTEIRO A MÃO",
+        "salario": 8023.25,
+        "data_admissao": "2011-02-21"
+    },
+    {
+        "chapa": 736290427,
+        "nome": "DANTE OLIVEIRA",
+        "filial": "COSTELA/RN",
+        "departamento": "SUPERINTENDÊNCIA SOCIAL",
+        "cargo": "TÉCNICO MECÂNICO",
+        "salario": 1722.87,
+        "data_admissao": "2017-08-25"
+    },
+    {
+        "chapa": 458456996,
+        "nome": "BRENDA LIMA",
+        "filial": "VARGAS/AP",
+        "departamento": "SUPERINTENDÊNCIA SOCIAL",
+        "cargo": "CICLISTA MENSAGEIRO",
+        "salario": 5643.62,
+        "data_admissao": "2008-05-26"
+    },
+    {
+        "chapa": 348819990,
+        "nome": "ANTONELLA MELO",
+        "filial": "DA ROSA/MT",
+        "departamento": "SUPERINTENDÊNCIA SOCIAL",
+        "cargo": "PIZZAIOLO",
+        "salario": 18534.03,
+        "data_admissao": "2010-06-03"
+    },
+    {
+        "chapa": 635292449,
+        "nome": "CAMILA CASSIANO",
+        "filial": "BRITO/PR",
+        "departamento": "SUPERINTENDÊNCIA SOCIAL",
+        "cargo": "PROJETISTA DE SISTEMAS DE ÁUDIO",
+        "salario": 5539.46,
+        "data_admissao": "2007-10-22"
+    },
+    {
+        "chapa": 952135582,
+        "nome": "MARIANE APARECIDA",
+        "filial": "DA CUNHA/AP",
+        "departamento": "SUPERINTENDÊNCIA DE CAPTAÇÃO DE RECURSOS",
+        "cargo": "DEPUTADO ESTADUAL E DISTRITAL",
+        "salario": 18141.86,
+        "data_admissao": "2023-05-28"
+    },
+    {
+        "chapa": 186980387,
+        "nome": "DR. JOÃO CARVALHO",
+        "filial": "CAVALCANTI DOS DOURADOS/PB",
+        "departamento": "SUPERINTENDÊNCIA FINANCEIRA",
+        "cargo": "CIRURGIÃO DENTISTA - ODONTOGERIATRA",
+        "salario": 11976.43,
+        "data_admissao": "2010-11-03"
+    },
+    {
+        "chapa": 539952856,
+        "nome": "AMANDA DA CUNHA",
+        "filial": "FERNANDES DE JESUS/SP",
+        "departamento": "SUPERINTENDÊNCIA EDUCACIONAL",
+        "cargo": "OPERADOR DE CRISTALIZAÇÃO NA REFINAÇÃO DE AÇUCAR",
+        "salario": 16121.16,
+        "data_admissao": "2011-02-15"
+    },
+    {
+        "chapa": 519668564,
+        "nome": "JOÃO MIGUEL MACHADO",
+        "filial": "NOGUEIRA DAS PEDRAS/ES",
+        "departamento": "SUPERINTENDÊNCIA ASSESSORAMENTO",
+        "cargo": "CONTRAMESTRE DE MALHARIA (INDÚSTRIA TÊXTIL)",
+        "salario": 14463.76,
+        "data_admissao": "2007-12-28"
+    },
+    {
+        "chapa": 580612247,
+        "nome": "LIZ VASCONCELOS",
+        "filial": "VASCONCELOS/PI",
+        "departamento": "SUPERINTENDÊNCIA MARKETING E COMUNICAÇÃO",
+        "cargo": "ENÓLOGO",
+        "salario": 2044.58,
+        "data_admissao": "2012-10-19"
+    },
+    {
+        "chapa": 181864557,
+        "nome": "DIOGO ALVES",
+        "filial": "REZENDE/PA",
+        "departamento": "SUPERINTENDÊNCIA DE COMUNICAÇÃO",
+        "cargo": "OPERADOR DE TREM DE METRÔ",
+        "salario": 2765.76,
+        "data_admissao": "2019-05-09"
+    },
+    {
+        "chapa": 502318666,
+        "nome": "ISAAC COSTELA",
+        "filial": "REZENDE/RJ",
+        "departamento": "SUPERINTENDÊNCIA TECNOLOGIA DA INFORMAÇÃO",
+        "cargo": "CIRURGIÃO DENTISTA - ENDODONTISTA",
+        "salario": 3065.86,
+        "data_admissao": "2025-09-15"
+    },
+    {
+        "chapa": 333956413,
+        "nome": "DAVI PASTOR",
+        "filial": "FERREIRA/ES",
+        "departamento": "SUPERINTENDÊNCIA CAPTAÇÃO DE RECURSOS",
+        "cargo": "BIOENGENHEIRO",
+        "salario": 13589.14,
+        "data_admissao": "2019-09-25"
+    },
+    {
+        "chapa": 765358788,
+        "nome": "LORENA SANTOS",
+        "filial": "CÂMARA DE ANDRADE/DF",
+        "departamento": "SUPERINTENDÊNCIA DE CAPTAÇÃO DE RECURSOS",
+        "cargo": "MOTOFRETISTA",
+        "salario": 7305.56,
+        "data_admissao": "2008-12-24"
+    },
+    {
+        "chapa": 142450761,
+        "nome": "DR. VINÍCIUS CALDEIRA",
+        "filial": "SAMPAIO DE MINAS/RO",
+        "departamento": "SUPERINTENDÊNCIA MARKETING E COMUNICAÇÃO",
+        "cargo": "GERENTE DE PRODUÇÃO E OPERAÇÕES  AQÜÍCOLAS",
+        "salario": 8419.48,
+        "data_admissao": "2021-02-03"
+    },
+    {
+        "chapa": 170709592,
+        "nome": "LUAN PIMENTA",
+        "filial": "BARBOSA DAS PEDRAS/AL",
+        "departamento": "SUPERINTENDÊNCIA FINANCEIRA",
+        "cargo": "GERENTE DE PRODUÇÃO E OPERAÇÕES",
+        "salario": 2173.95,
+        "data_admissao": "2019-12-29"
+    },
+    {
+        "chapa": 830708147,
+        "nome": "SOPHIE COSTELA",
+        "filial": "RIOS DO CAMPO/ES",
+        "departamento": "SUPERINTENDÊNCIA ADMINISTRATIVA",
+        "cargo": "RECEBEDOR DE APOSTAS (TURFE)",
+        "salario": 11720.97,
+        "data_admissao": "2007-12-02"
+    },
+    {
+        "chapa": 105386727,
+        "nome": "SRA. ÁGATHA VASCONCELOS",
+        "filial": "PEREIRA/SC",
+        "departamento": "SUPERINTENDÊNCIA TECNOLOGIA DA INFORMAÇÃO",
+        "cargo": "OFICIAL DE PROTEÇÃO DE DADOS PESSOAIS (DPO)",
+        "salario": 3531.75,
+        "data_admissao": "2026-03-21"
+    },
+    {
+        "chapa": 968485523,
+        "nome": "DRA. LUÍSA COSTA",
+        "filial": "VARGAS DO CAMPO/TO",
+        "departamento": "SUPERINTENDÊNCIA ADMINISTRATIVA",
+        "cargo": "OPERADOR DE REFRIGERAÇÃO COM AMÔNIA",
+        "salario": 18572.54,
+        "data_admissao": "2022-05-02"
+    },
+    {
+        "chapa": 663273042,
+        "nome": "MARIA FERNANDA CASTRO",
+        "filial": "DA MOTA/MT",
+        "departamento": "SUPERINTENDÊNCIA ADMINISTRATIVA",
+        "cargo": "ANALISTA DE CRÉDITO RURAL",
+        "salario": 9088.9,
+        "data_admissao": "2018-08-18"
+    },
+    {
+        "chapa": 728516119,
+        "nome": "RAVY MELO",
+        "filial": "LEÃO/MT",
+        "departamento": "SUPERINTENDÊNCIA SOCIAL",
+        "cargo": "TRABALHADOR NA FABRICAÇÃO DE PRODUTOS ABRASIVOS",
+        "salario": 16641.9,
+        "data_admissao": "2009-03-21"
+    },
+    {
+        "chapa": 220943647,
+        "nome": "SAMUEL NOGUEIRA",
+        "filial": "RODRIGUES DA SERRA/SC",
+        "departamento": "SUPERINTENDÊNCIA EDUCACIONAL",
+        "cargo": "PINTOR DE CERÂMICA, A  PINCEL",
+        "salario": 12052.49,
+        "data_admissao": "2022-07-07"
+    },
+    {
+        "chapa": 401966739,
+        "nome": "LUIZ MIGUEL ROCHA",
+        "filial": "FREITAS DO CAMPO/PA",
+        "departamento": "SUPERINTENDÊNCIA GERAL",
+        "cargo": "DIRETOR DE SERVIÇOS DE SAÚDE",
+        "salario": 5771.0,
+        "data_admissao": "2007-10-27"
+    },
+    {
+        "chapa": 493949217,
+        "nome": "OTÁVIO FOGAÇA",
+        "filial": "CIRINO/RO",
+        "departamento": "SUPERINTENDÊNCIA DE CAPTAÇÃO DE RECURSOS",
+        "cargo": "OPERADOR DE EQUIPAMENTO DE SECAGEM DE PINTURA",
+        "salario": 13367.47,
+        "data_admissao": "2013-11-23"
+    },
+    {
+        "chapa": 177233244,
+        "nome": "SR. ANTHONY GABRIEL ROCHA",
+        "filial": "VARGAS DOS DOURADOS/RJ",
+        "departamento": "SUPERINTENDÊNCIA GERAL",
+        "cargo": "DIRETOR DE CRÉDITO (EXCETO CRÉDITO IMOBILIÁRIO)",
+        "salario": 18186.92,
+        "data_admissao": "2007-06-30"
+    },
+    {
+        "chapa": 219962616,
+        "nome": "LARISSA APARECIDA",
+        "filial": "BARBOSA DAS FLORES/RS",
+        "departamento": "SUPERINTENDÊNCIA DE COMUNICAÇÃO",
+        "cargo": "MECÂNICO DE MANUTENÇÃO DE MÁQUINAS DE CONSTRUÇÃO E TERRAPLENAGEM",
+        "salario": 13031.3,
+        "data_admissao": "2022-11-06"
+    }
+]
