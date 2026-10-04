@@ -1,14 +1,14 @@
-# 🏢 CRUD - RH
+# 🏢 DZADATA
 
 Sistema de cadastro e gerenciamento de funcionários desenvolvido em **Python**, utilizando **Programação Orientada a Objetos (POO)**, persistência de dados em **JSON** e organização do projeto em camadas.
 
-> Projeto desenvolvido para prática de CRUD, Programação Orientada a Objetos, manipulação de arquivos JSON, modularização e organização de aplicações Python.
+> Projeto desenvolvido para prática de DZADATA, Programação Orientada a Objetos, manipulação de arquivos JSON, modularização e organização de aplicações Python.
 
 ---
 
 ## 📖 Sobre o Projeto
 
-O **CRUD - RH** é uma aplicação de terminal desenvolvida para simular um sistema de **Recursos Humanos**, permitindo o gerenciamento de funcionários.
+O **DZADATA** é uma aplicação de terminal desenvolvida para simular um sistema de **Recursos Humanos**, permitindo o gerenciamento de funcionários.
 
 O sistema realiza operações de **cadastro, consulta, atualização e exclusão de funcionários**, além de possuir persistência dos dados em arquivo JSON e geração automática de funcionários fictícios para testes e demonstração.
 
@@ -60,7 +60,7 @@ pip install rich faker python-dateutil
 ## 📂 Estrutura do Projeto
 
 ```text
-crud-rh/
+DZADATA  /
 │
 ├── models/
 │   ├── __init__.py
@@ -161,13 +161,13 @@ Como o sistema permite o cadastro de vários funcionários, os registros são ar
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/davidzarur80/crud-rh.git
+git clone https://github.com/davidzarur80/DZADATA.git
 ```
 
 ### 2. Entrar no diretório
 
 ```bash
-cd crud-rh
+cd DZADATA 
 ```
 
 ### 3. Criar ambiente virtual
@@ -343,29 +343,6 @@ Contém funções auxiliares utilizadas em diferentes partes do sistema.
 utils/helpers.py
 ```
 
----
-
-## 📈 Melhorias Futuras
-
-Algumas funcionalidades que podem ser adicionadas futuramente:
-
-* Exportação para Excel
-* Exportação para PDF
-* Dashboard com gráficos
-* Relatórios gerenciais
-* Banco de dados SQLite
-* Interface gráfica com Tkinter
-* API REST com Flask
-* API REST com FastAPI
-* Testes automatizados com Pytest
-* Docker
-* Autenticação de usuários
-* Controle de permissões
-* Histórico de alterações
-* Banco de dados PostgreSQL
-
----
-
 ## 🎯 Objetivos de Aprendizagem
 
 Este projeto foi desenvolvido para praticar:
@@ -388,34 +365,6 @@ Este projeto foi desenvolvido para praticar:
 
 ---
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas.
-
-### 1. Faça um Fork do projeto
-
-### 2. Crie uma nova branch
-
-```bash
-git checkout -b feature/nova-funcionalidade
-```
-
-### 3. Faça suas alterações e crie um commit
-
-```bash
-git commit -m "feat: adiciona nova funcionalidade"
-```
-
-### 4. Envie a branch para o GitHub
-
-```bash
-git push origin feature/nova-funcionalidade
-```
-
-### 5. Abra um Pull Request
-
----
-
 ## 👨‍💻 Autor
 
 **David Zarur**
@@ -428,7 +377,7 @@ GitHub: https://github.com/davidzarur80
 
 Este projeto foi desenvolvido para fins **educacionais e de aprendizado**.
 
-Sinta-se à vontade para utilizar o projeto como referência nos seus estudos de Python, POO, CRUD, persistência de dados e organização de aplicações.
+Sinta-se à vontade para utilizar o projeto como referência nos seus estudos de Python, POO, DZADATA, persistência de dados e organização de aplicações.
 
 ---
 
