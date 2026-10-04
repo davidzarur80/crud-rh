@@ -2,7 +2,7 @@
 
 Sistema de cadastro e gerenciamento de funcionários desenvolvido em **Python**, utilizando **Programação Orientada a Objetos (POO)**, persistência de dados em **JSON** e organização do projeto em camadas.
 
-> Projeto desenvolvido para prática de DZADATA, Programação Orientada a Objetos, manipulação de arquivos JSON, modularização e organização de aplicações Python.
+> Projeto desenvolvido para prática de CRUD, Programação Orientada a Objetos, manipulação de arquivos JSON, modularização e organização de aplicações Python.
 
 ---
 
