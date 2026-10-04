@@ -377,7 +377,7 @@ GitHub: https://github.com/davidzarur80
 
 Este projeto foi desenvolvido para fins **educacionais e de aprendizado**.
 
-Sinta-se à vontade para utilizar o projeto como referência nos seus estudos de Python, POO, DZADATA, persistência de dados e organização de aplicações.
+Sinta-se à vontade para utilizar o projeto como referência nos seus estudos de Python, POO, CRUD, persistência de dados e organização de aplicações.
 
 ---
 
